@@ -36,9 +36,11 @@ My passion in life is using my IT technical skill to contribute in organizations
 
 <h2> Education </h2>
 <h3> STI College Ortigas Cainta </h3> 
-- 🌱 I’m currently learning **Frameworks, Web development, General Purpose Programming Languages**
+<ul> 
+  <li><strong> Program: Bachelor Of Science in Information Technology</strong>
+  <li><strong> Period: 2019 - 2024</strong>
+</ul>
 
-- 📫 How to reach me **edraytuyor@gmail.com**
 <!---
 edray28/edray28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
