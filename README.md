@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/0LQJsRaRkYujDwfGHO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/0LQJsRaRkYujDwfGHO">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/0LQJsRaRkYujDwfGHO/html5" alt="Edray's Banner"  width=450/>
 <h1>Hello there 👋, I'm Edgar Ray Tuyor</h1>
 <p>📌I am Edgar Ray Tuyor, I am currently pursuing BSIT Program from STI College Ortigas Cainta. I am very interested in learning new technologies and more in my IT career, I am eager to be challenged in order to grow and further improve my skills, to create real-world projects that I may benefit from my career as an IT student.</p>
 <p>📌Now I'm motivated!⚡, to develop my skills and grow independent, I constantly self-study to learn something new. My passion in life is using my IT technical skill to contribute in organizations</p>
