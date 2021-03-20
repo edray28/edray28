@@ -18,7 +18,7 @@ My passion in life is using my IT technical skill to contribute in organizations
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edray28&repo=edray28.github.io&theme=dracula)](https://github.com/edray28/edray28.github.io)
 
-<h4> My Projects </h4>
+<h3 align="left"><b>My Projects:</b></h3>
 
 <!---
 edray28/edray28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
