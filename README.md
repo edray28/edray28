@@ -20,20 +20,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=edray28&show_icons=true&theme=dracula" />
 </a>
 
-
-<h3 align="left"><b>📌My Featured Projects:</b></h3>
-------------------------------------------
-------------------------------------------
-------------------------------------------
-------------------------------------------
-
-
-
-
-
-
-
-
 <h2>📌 Education </h2>
 <h3> STI College Ortigas Cainta </h3> 
 <ul> 
