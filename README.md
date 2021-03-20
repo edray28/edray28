@@ -1,7 +1,8 @@
                                                                                      *BANNER*
 <h1>Hello there 👋, I'm Edgar Ray Tuyor</h1>
-<p>📌I am very interested to learn more in my IT career, I am eager to be challenged in order to grow and further improve my skills. 
-My passion in life is using my IT technical skill to contribute in organizations </p>
+<p>📌I am Edgar Ray Tuyor, I am currently pursuing BSIT Program from STI College Ortigas Cainta. I am very interested in learning new technologies and more in my IT career, I am eager to be challenged in order to grow and further improve my skills, to create real-world projects that I may benefit from my career as an IT student.</p>
+<p>📌Now I'm motivated to develop my skills and grow independent, I constantly self-study to learn new. My passion in life is using my IT technical skill to contribute in organizations</p>
+
 - 🔭 I’m currently working on **Improving IT Skills**
 
 - 🌱 I’m currently learning **Frameworks, Web development, General Purpose Programming Languages**
