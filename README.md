@@ -15,7 +15,7 @@ My passion in life is using my IT technical skill to contribute in organizations
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edray28&layout=compact&theme=dracula) 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=edray28&repo=edray28.github.io&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=edray28&show_icons=true&theme=dracula" />
 </a>
 
 
