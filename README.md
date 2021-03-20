@@ -15,7 +15,7 @@ My passion in life is using my IT technical skill to contribute in organizations
 
 ![Edray's GitHub stats](https://github-readme-stats.vercel.app/api?username=edray28&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edray28&layout=compact&theme=dracula)](https://github.com/edray28/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edray28&repo=edray28-edray28.github.io&theme=dracula)
 <!---
 edray28/edray28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
