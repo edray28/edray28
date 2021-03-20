@@ -21,6 +21,17 @@ My passion in life is using my IT technical skill to contribute in organizations
 ------
 ------
 ------
+
+
+
+
+
+
+
+
+
+
+
 ![Edray's GitHub stats](https://github-readme-stats.vercel.app/api?username=edray28&show_icons=true&theme=dracula)
 
 
