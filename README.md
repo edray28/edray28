@@ -14,7 +14,7 @@ My passion in life is using my IT technical skill to contribute in organizations
 
 
 <span>![Edray's GitHub stats](https://github-readme-stats.vercel.app/api?username=edray28&show_icons=true&theme=dracula)</span>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edray28&layout=compact&theme=dracula)](https://github.com/edray28/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edray28&layout=compact&theme=dracula)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edray28&repo=edray28.github.io&theme=dracula)](https://github.com/edray28/edray28.github.io)
 
