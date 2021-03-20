@@ -2,9 +2,9 @@
 <h3>An eager person trying to learn an IT profession</h3>
 <p> I am very interested to learn more in my IT career, I am eager to be challenged in order to grow and further improve my skills. 
 My passion in life is using my IT technical skill to contribute in organizations </p>
-- 🔭 I’m currently working on **Learning Languages**
+- 🔭 I’m currently working on **Improving IT Skills**
 
-- 🌱 I’m currently learning **Frameworks, Web development, Programming**
+- 🌱 I’m currently learning **Frameworks, Web development, General Purpose Programming Languages**
 
 - 📫 How to reach me **edraytuyor@gmail.com**
 
