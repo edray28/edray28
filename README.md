@@ -7,7 +7,9 @@ My passion in life is using my IT technical skill to contribute in organizations
 
 - 🌱 I’m currently learning **Frameworks, Web development, General Purpose Programming Languages**
 
-- 📫 How to reach me **edraytuyor@gmail.com**
+- 📫 How to reach me? **edraytuyor@gmail.com**
+
+<i class="bi bi-facebook"></i>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edray28&repo=edray28.github.io&theme=dracula)](https://github.com/edray28/edray28.github.io)
 
