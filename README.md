@@ -34,7 +34,7 @@ My passion in life is using my IT technical skill to contribute in organizations
 
 
 
-<h2> Education </h2>
+<h2>📌 Education </h2>
 <h3> STI College Ortigas Cainta </h3> 
 <ul> 
   <li><strong> Program: Bachelor Of Science in Information Technology</strong>
