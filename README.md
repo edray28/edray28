@@ -8,7 +8,7 @@ My passion in life is using my IT technical skill to contribute in organizations
 - 🌱 I’m currently learning **Frameworks, Web development, General Purpose Programming Languages**
 
 - 📌 Contact
-<a href="https://www.facebook.com/edgar.ray.tuyor420--" rel="nofollow"><img align="center" height="40" src="https://camo.githubusercontent.com/ff89eaf791ef18656e8da5b95795daa28cd600d56b3daf48ab151a24a568ff46/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f3134342f3030303030302f66616365626f6f6b2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/144/000000/facebook-new.png" style="max-width:100%;">
+<a href="https://www.facebook.com/edgar.ray.tuyor420--69" rel="nofollow"><img align="center" height="40" src="https://camo.githubusercontent.com/ff89eaf791ef18656e8da5b95795daa28cd600d56b3daf48ab151a24a568ff46/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f3134342f3030303030302f66616365626f6f6b2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/144/000000/facebook-new.png" style="max-width:100%;">
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edray28&repo=edray28.github.io&theme=dracula)](https://github.com/edray28/edray28.github.io)
