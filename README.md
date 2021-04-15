@@ -1,4 +1,5 @@
 <img src="https://github.com/edray28/edray28/raw/main/github-metrics.svg" alt="Metrics" style="max-width:100%;">
+
 - 🔭 I’m currently working on <code>**Improving IT Skills**</code>
 
 - 🌱 I’m currently learning <code>**Frameworks, Web development, General Purpose Programming Languages**</code>
@@ -23,9 +24,6 @@
   
   </ul>
   
-
-
-
 <h2>📌 Education </h2>
 <h3> STI College Ortigas Cainta </h3> 
 <ul> 
