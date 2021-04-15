@@ -1,4 +1,4 @@
-<img src="https://github.com/edray28/edray28/raw/main/github-metrics.svg" alt="Metrics" style="max-width:100%;">
+<img src="https://github.com/edray28/edray28/raw/main/github-metrics.svg" alt="Metrics" style="max-width:100%;" align="center">
 - 🔭 I’m currently working on <code>**Improving IT Skills**</code>
 
 - 🌱 I’m currently learning <code>**Frameworks, Web development, General Purpose Programming Languages**</code>
