@@ -1,4 +1,3 @@
-<img width="650" height="270" src="https://github.com/edray28/edray28/blob/c83fc5326514f73621ff777230ac7a06ed5d04fc/giphy.gif" alt="IntroBanner" data-canonical-src="https://media.giphy.com/media/0LQJsRaRkYujDwfGHO/giphy.gif" style="max-width:100%;">
 <h1>Hello there 👋, I'm Edgar Ray Tuyor</h1>
 <p>📌I am Edgar Ray Tuyor, I am currently pursuing BSIT Program from STI College Ortigas Cainta. I am very interested in learning new technologies and more in my IT career, I am eager to be challenged in order to grow and further improve my skills, to create real-world projects that I may benefit from my career as an IT student.</p>
 <p>📌Now I'm motivated!⚡, to develop my skills and grow independent, I constantly self-study to learn something new. My passion in life is using my IT technical skill to contribute in organizations</p>
@@ -7,9 +6,6 @@
 
 - 🌱 I’m currently learning <code>**Frameworks, Web development, General Purpose Programming Languages**</code>
 
-- Contact: 
-<a href="https://www.facebook.com/edgar.ray.tuyor4/" rel="nofollow"><img align="center" height="40" target="_blank" src="https://camo.githubusercontent.com/ff89eaf791ef18656e8da5b95795daa28cd600d56b3daf48ab151a24a568ff46/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f3134342f3030303030302f66616365626f6f6b2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/144/000000/facebook-new.png" style="max-width:100%;" ></a>
-<a href="https://www.linkedin.com/in/vexp227/" rel="nofollow"><img align="center" height="40" target="_blank"  src="https://camo.githubusercontent.com/ba5fbf8a101ce7ead277109b7bda9346d4148d6d86f6def29f960268402a5f54/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/color/144/000000/linkedin.png" style="max-width:100%;" ></a> TO BE CHANGED
 - 📄 My Portfolio link: https://www.youtube.com/watch?v=dQw4w9WgXcQ - (WARNING) TO BE UPDATED
 
 <h2 align="left">📌Developing Skills👨‍💻 ⚙️</h2>
