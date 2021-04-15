@@ -17,8 +17,8 @@ jobs:
           template: classic
           plugin_achievements: yes
           plugin_lines: yes
-          plugin_languages: yes
           plugin_gists: yes
+          plugin_languages: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
           plugin_achievements_ignored: octonaut  # Hide octonaut achievement
