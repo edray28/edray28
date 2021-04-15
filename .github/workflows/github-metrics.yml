@@ -14,11 +14,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_lines: yes
-          plugin_languages: yes
-          plugin_gist: yes
-          plugin_followup: yes
-          plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
           plugin_achievements_ignored: octonaut  # Hide octonaut achievement
