@@ -30,6 +30,12 @@
   <li><strong> Program: Bachelor Of Science in Information Technology</strong>
   <li><strong> Period: 2019 - 2024</strong>
 </ul>
+<h2> 📌 Experience </h2>
+<h3> TITLE </h3> 
+<ul> 
+  <li><strong> Responsibility: </strong>
+  <li><strong> Period: </strong>
+</ul>
 <h3> Location: Philippines </h3> 
 <!---
 edray28/edray28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
