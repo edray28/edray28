@@ -1,5 +1,4 @@
-![Metrics](https://github.com/edray28/edray28/blob/main/github-metrics.svg)
-![Metrics](https://github.com/edray28/edray28/blob/master/github-metrics.svg)
+![Metrics]<a href="https://github.com/edray28/edray28/blob/main/github-metrics.svg)"> 
 - 🔭 I’m currently working on <code>**Improving IT Skills**</code>
 
 - 🌱 I’m currently learning <code>**Frameworks, Web development, General Purpose Programming Languages**</code>
