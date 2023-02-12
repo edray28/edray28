@@ -4,7 +4,7 @@
 <h3> STI College Ortigas Cainta </h3> 
 <ul> 
   <li><strong> Program: Bachelor Of Science in Information Technology</strong>
-  <li><strong> Period: 2019 - 2024</strong>
+  <li><strong> Period: 2019 - 2023</strong>
 </ul>
 <h3> Location: Philippines </h3> 
 <!---
